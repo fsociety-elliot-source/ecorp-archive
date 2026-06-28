@@ -1,8 +1,0 @@
-E-Corp Archive Transfer
-==============================
-Legacy fsociety assets moved to a simple storage.
-
-Remote: let-go
-Region: ap-southeast-2
-
-TODO: revoke public access — elliot@e-corp.com
