@@ -1,4 +1,4 @@
-# ecorp-archive
+# Perspective on E-Corp
 
 Every time someone says E Corp, I hear Evil Corp. Maybe that's my brain trying to simplify the world. Or maybe it's the only honest translation left.
 
